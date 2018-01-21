@@ -1,7 +1,7 @@
 {
   "name": "monpress-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "mongoosejs+expressjs=>RESTful gennerator",
   "main": "index.js",
   "keywords": [
     "mongoose",
