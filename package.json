@@ -1,0 +1,27 @@
+{
+  "name": "monpress-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "mongoose",
+    "express",
+    "RESTful"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HobaiRiku/monpress-generator.git"
+  },
+  "author": "Hobai Riku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HobaiRiku/monpress-generator/issues"
+  },
+  "homepage": "https://github.com/HobaiRiku/monpress-generator#readme",
+  "dependencies": {
+    "hobai-nodejs-tool": "^1.0.3"
+  }
+}
